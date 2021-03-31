@@ -1,0 +1,14 @@
+{
+  "name": "testes_automatizados",
+  "version": "1.0.0",
+  "description": "exemplo de testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "norma carrillo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
